@@ -1,0 +1,53 @@
+.all {
+  background: #0d2b45;
+}
+
+.header-text {
+  color: #ffecd6;
+  text-align: center;
+}
+
+.about-text {
+  width: 640px;
+  text-align: center;
+  margin: 0 auto;
+}
+
+.container-fluid {
+  background: #0d2b45;
+  margin-top: 0px;
+}
+
+.btn {
+  color: #0d2b45;
+  background-color: #d08159;
+  border-color: #8d697a;
+}
+
+.btn:hover {
+  background-color: #8d697a;
+  border-color: #0d2b45;
+}
+
+.header-image {
+  margin-top: 20px;
+}
+
+main {
+  color: #ffecd6;
+  margin-top: 10px;
+}
+
+form {
+  width: 350px;
+  margin-bottom: 10px;
+}
+
+ul {
+  margin-bottom: 0px;
+}
+
+#completedTaskList .content {
+  color: grey;
+  text-decoration: line-through;
+}
